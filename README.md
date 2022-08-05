@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![github](figures/github.png)
+<img src = "https://github.com/aliigan/kodluyoruzilkrepo/commit/ef2ff35ed052dacbfbbf6f91cf80ab86d1b2effb" >
 
 ## Installation
 
